@@ -1,0 +1,6 @@
+/*
+
+this is a model into the mapping data for venues.  this is more like a template that tells an app how
+to map source specific data provided by a venue data source to the universal venue record
+
+ */
